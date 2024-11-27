@@ -4,16 +4,16 @@ Welcome to my GitHub profile! I’m Anastasia Beschaskina, a dedicated and innov
 
 ## 🚀 About Me
 
-🌱 I’m currently expanding my expertise in full-stack development, focusing on Node.js, React, and advanced database solutions using S3, MongoDB, and MySQL.
-💬 Ask me about building scalable backends, integrating cloud storage, or crafting dynamic frontends with React and Vue.js!
-📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/anastasiabeschaskina/) or via email.
+- 🌱 I’m currently expanding my expertise in full-stack development, focusing on Node.js, React, and advanced database solutions using S3, MongoDB, and MySQL.
+- 💬 Ask me about building scalable backends, integrating cloud storage, or crafting dynamic frontends with React and Vue.js!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anastasiabeschaskina) or via email.
 
 ## 🔧 Top Skills
 
-	•	🛠 Frontend: JavaScript, React, Vue.js, HTML, CSS
-	•	🌐 Backend: Node.js, Express, MongoDB, MySQL
-	•	🎨 Design: Figma, Storybook
-	•	⚙ Tools: Git, AWS S3
+	-	🛠 Frontend: JavaScript, React, Vue.js, HTML, CSS
+	-	🌐 Backend: Node.js, Express, MongoDB, MySQL
+	-	🎨 Design: Figma, Storybook
+	-	⚙ Tools: Git, AWS S3
 
  ## 📂 Favorites Featured Projects
 
@@ -24,7 +24,6 @@ Technologies:
 	•	Frontend: React, TypeScript, CSS
 	•	Backend: Node.js, Express, GPT-4 API
 	•	Database: MySQL
-	•	Design: Figma
 
 Features:
 	•	Personalized Stories: Tailored fairy tales generated using GPT-4 based on user input.
