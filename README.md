@@ -27,10 +27,10 @@ Welcome to my GitHub profile! I’m Anastasia Beschaskina, a dedicated and innov
 	-	Imaginative Content: Stories that nurture creativity and foster a love for reading.
  
 - **[Interview Preparation Platform](https://github.com/AnastasiaBeschaskina/todos)**
-- A full-stack application designed to assist job seekers with a structured approach to interview preparation. The platform generates personalized task schedules based on user inputs and provides AI-powered CV analysis to highlight strengths and suggest improvements.
-	•	Technologies: MySQL, CSS, JavaScript, TypeScript, Vue.js, Node.js, OpenAI API
-	•	Features:
-	•	Personalized Task Scheduler: Generates tasks with deadlines based on career goals and interview timelines.
-	•	CV Feedback: AI-driven analysis of resumes to identify strengths and areas for improvement.
-	•	Task Management: Uses Amazon S3 for efficient JSON storage, enabling easy task addition, removal, and updates.
-	•	Interactive UI: A user-friendly design for seamless task navigation and scheduling.
+  - A full-stack application designed to assist job seekers with a structured approach to interview preparation. The platform generates personalized task schedules based on user inputs and provides AI-powered CV analysis to highlight strengths and suggest improvements.
+  - Technologies: MySQL, CSS, JavaScript, TypeScript, Vue.js, Node.js, OpenAI API
+  - Features:
+    - Personalized Task Scheduler: Generates tasks with deadlines based on career goals and interview timelines.
+    - CV Feedback: AI-driven analysis of resumes to identify strengths and areas for improvement.
+    - Task Management: Uses Amazon S3 for efficient JSON storage, enabling easy task addition, removal, and updates.
+    - Interactive UI: A user-friendly design for seamless task navigation and scheduling.
