@@ -26,7 +26,7 @@ A full-stack project blending technology and creativity to craft unique, engagin
      - Story Library: A database to store and revisit saved favorite stories.
      - User-Friendly UI: Engaging and interactive design for kids and parents alike.
      - Imaginative Content: Stories that nurture creativity and foster a love for reading.
- 
+ ![Project Image](/project1.png)
 **[Interview Preparation Platform](https://github.com/AnastasiaBeschaskina/todos)**
 
 A full-stack application designed to assist job seekers with a structured approach to interview preparation. The platform generates personalized task schedules based on user inputs and provides AI-powered CV analysis to highlight strengths and suggest improvements.
