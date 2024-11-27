@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I’m Anastasia Beschaskina, a dedicated and innov
 
 	-	🛠 Frontend: JavaScript, React, Vue.js, HTML, CSS
 	-	🌐 Backend: Node.js, Express, MongoDB, MySQL
-	-	🎨 Design: Figma, Storybook
 	-	⚙ Tools: Git, AWS S3
 
  ## 📂 Favorites Featured Projects
