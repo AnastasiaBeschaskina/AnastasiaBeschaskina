@@ -1,3 +1,4 @@
+![Badge](https://img.shields.io/badge/React-Developer-blue)
 ## Hello World, I'm Anastasia 👩🏻‍💻
 
 Welcome to my GitHub profile! I’m Anastasia Beschaskina, a dedicated and innovative full-stack developer with hands-on experience in creating responsive and user-centric web applications. I specialize in technologies like JavaScript, TypeScript, Vue.js, and Node.js, and I’m passionate about building scalable and efficient solutions.
