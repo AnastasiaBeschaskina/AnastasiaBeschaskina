@@ -21,14 +21,13 @@ Welcome to my GitHub profile! I’m Anastasia Beschaskina, a dedicated and innov
    A full-stack project blending technology and creativity to craft unique, engaging fairy tales for children. Built with SQL, React, Node.js, and the GPT-4 API, this application generates personalized stories based on user preferences, with options to save and revisit favorite tales.
 
 Technologies:
-	•	Frontend: React, TypeScript, CSS
-	•	Backend: Node.js, Express, GPT-4 API
-	•	Database: MySQL
-
+	-	Frontend: React, TypeScript, CSS
+	-	Backend: Node.js, Express, GPT-4 API
+	-	Database: MySQL
 Features:
-	•	Personalized Stories: Tailored fairy tales generated using GPT-4 based on user input.
-	•	Story Library: A database to store and revisit saved favorite stories.
-	•	User-Friendly UI: Engaging and interactive design for kids and parents alike.
-	•	Imaginative Content: Stories that nurture creativity and foster a love for reading.
+	-	Personalized Stories: Tailored fairy tales generated using GPT-4 based on user input.
+	-	Story Library: A database to store and revisit saved favorite stories.
+	-	User-Friendly UI: Engaging and interactive design for kids and parents alike.
+	-	Imaginative Content: Stories that nurture creativity and foster a love for reading.
  
 - **[Another Project](https://github.com/yourusername/anotherproject)**: Short description.
