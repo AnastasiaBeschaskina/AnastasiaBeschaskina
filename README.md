@@ -32,7 +32,7 @@ A full-stack project blending technology and creativity to craft unique, engagin
 **[Interview Preparation Platform](https://github.com/AnastasiaBeschaskina/todos)**
 
 A full-stack application designed to assist job seekers with a structured approach to interview preparation. The platform generates personalized task schedules based on user inputs and provides AI-powered CV analysis to highlight strengths and suggest improvements.
-  - Technologies: MySQL, CSS, JavaScript, TypeScript, Vue.js, Node.js, OpenAI API
+  - Technologies: S3, CSS, JavaScript, TypeScript, Vue.js, Node.js, OpenAI API
   - Features:
     - Personalized Task Scheduler: Generates tasks with deadlines based on career goals and interview timelines.
     - CV Feedback: AI-driven analysis of resumes to identify strengths and areas for improvement.
