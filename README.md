@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m Anastasia Beschaskina, a dedicated and innov
 ## 🚀 About Me
 
 - 🌱 I’m currently expanding my expertise in full-stack development, focusing on Node.js, React, and advanced database solutions using S3, MongoDB, and MySQL.
-- 💬 Ask me about building scalable backends, integrating cloud storage, or crafting dynamic frontends with React and Vue.js!
+- 💬 I’d love to hear your feedback on my projects and code! Your insights will help me grow as a developer. Feel free to share your thoughts or suggestions!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anastasiabeschaskina) or via email.
 
 ## 🔧 Top Skills
